@@ -1,1 +1,2 @@
 # Service-Now-Interview-Question-Answers-by-PythonLife
+Explore 100+ ServiceNow Interview Questions and Answers designed for freshers and experienced professionals. Cover important topics such as ITSM, Incident Management, Problem Management, Change Management, Service Catalog, CMDB, Business Rules, Client Scripts, Flow Designer, and JavaScript. Prepare confidently for technical interviews, improve your ServiceNow knowledge, and boost your career opportunities.
